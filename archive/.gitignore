@@ -2,6 +2,7 @@
 /data.xml
 /images/
 /trailers/
+install.php
 
 # Game Data files
 trine
@@ -9,4 +10,3 @@ trine_2
 trine_2-_complete_story
 
 # IN GENERAL
-DISABLED_*
