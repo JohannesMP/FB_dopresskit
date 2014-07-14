@@ -1,6 +1,12 @@
-# Data xml files
+# Root Data files
+/data.xml
+/images/
+/trailers/
 
-data.xml
+# Game Data files
+trine
+trine_2
+trine_2-_complete_story
 
-images/
-trailers/
+# IN GENERAL
+DISABLED_*
