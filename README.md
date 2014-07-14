@@ -1,7 +1,7 @@
-dopresskit
+FB_dopresskit
 ==========
 
-presskit() - spend time making games, not press.
+presskit() - spend time making games, not press. Modified for Frozenbyte. www.frozenbyte.com
 
 
 Simple. Fast. Free.
